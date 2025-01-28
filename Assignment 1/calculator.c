@@ -1,5 +1,5 @@
 //Made by Shardul Funde
-//This file is part of WCE Assignments by OpenAlgos
+
 #include <stdio.h>
 
 int main(void) {
